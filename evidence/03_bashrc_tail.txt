@@ -1,0 +1,4 @@
+
+export DB_USER="labuser"
+
+export DB_PASSWORD="labpass123"
